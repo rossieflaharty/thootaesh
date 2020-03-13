@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phaitiebe.janmontag.de/sitemap.xml
